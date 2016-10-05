@@ -1,0 +1,10 @@
+C:\Beers\Beers.Core\bin\Debug\Beers.Core.dll
+C:\Beers\Beers.Core\bin\Debug\Beers.Core.pdb
+C:\Beers\Beers.Core\bin\Debug\MvvmCross.Binding.dll
+C:\Beers\Beers.Core\bin\Debug\MvvmCross.Core.dll
+C:\Beers\Beers.Core\bin\Debug\MvvmCross.Localization.dll
+C:\Beers\Beers.Core\bin\Debug\MvvmCross.Platform.dll
+C:\Beers\Beers.Core\obj\Debug\Beers.Core.dll
+C:\Beers\Beers.Core\obj\Debug\Beers.Core.pdb
+C:\Beers\Beers.Core\obj\Debug\Beers.Core.dll.mdb
+C:\Beers\Beers.Core\bin\Debug\Beers.Core.dll.mdb
